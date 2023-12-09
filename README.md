@@ -19,3 +19,7 @@
 
 ## 📜 Current Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rhmunna143&theme=github-dark-blue&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+
+
+## 🔝 Most Used Language
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/rhmunna143/langs)](https://githubtrends.io)
