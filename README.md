@@ -25,6 +25,11 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,react,mongodb,express,c,cpp,java,py)](https://skillicons.dev)
 
 
+## 🔨 What do I Do
+
+I am a passionate Web Developer specializing in full-stack development, particularly in the MERN stack (MongoDB, Express.js, React.js, Node.js). I enjoy crafting responsive web applications, solving complex problems, and implementing innovative solutions. With a keen eye for detail and a dedication to clean, efficient code, I thrive in creating seamless user experiences. Additionally, I'm enthusiastic about continuous learning, staying updated with the latest technologies, and contributing to impactful projects that make a difference.
+
+
 ## 📜 Current Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rhmunna143&theme=github-dark-blue&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
