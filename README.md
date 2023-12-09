@@ -52,4 +52,4 @@
 
 
 ## 🔝 Most Used Language
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/rhmunna143/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/rhmunna143/langs?time_range=all_time&theme=dark)](https://githubtrends.io) [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/rhmunna143/langs?time_range=all_time&include_private=true&use_percent=true) [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/rhmunna143/repos?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=dark)
