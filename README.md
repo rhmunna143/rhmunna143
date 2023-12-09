@@ -1,4 +1,4 @@
-![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/rhmunna143/rhmunna143/assets/66863042/06faa54e-388b-490a-920e-056a187c7a67)
+![RH Munna GitHub Banner (1920 x 1080 px)](https://github.com/rhmunna143/rhmunna143/assets/66863042/1ee5b1f0-9364-4c5a-89cc-c927e7ddc80f)
 
 ## 👋 Hi there I am RH Munna, Web Developer (MERN Stack), Competitive Programmer. Greetings! Welcome to my GitHub profile.
 
