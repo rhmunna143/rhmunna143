@@ -9,3 +9,13 @@
 - 💬 Ask me about JavaScript, React.Js and C++
 - 📫 How to reach me: rhmunna19@gmail.com
 - ⚡ Fun fact: I'm a coffee aficionado and can make a mean latte art! ☕️✨
+
+## 🙋‍♂️ About me
+
+"👨‍💻 Tech enthusiast exploring new horizons. Passionate about coding, tech innovation, and creating cool stuff! Let's connect and build together! 🚀"
+
+
+
+
+## 📜 Current Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rhmunna143&theme=github-dark-blue&hide_border=true&border_radius=5)](https://git.io/streak-stats)
