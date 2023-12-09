@@ -15,6 +15,9 @@
 "👨‍💻 Tech enthusiast exploring new horizons. Passionate about coding, tech innovation, and creating cool stuff! Let's connect and build together! 🚀"
 
 
+## 💻 Technologies That I Know
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,react,mongodb,express,c,cpp,java,py)](https://skillicons.dev)
 
 
 ## 📜 Current Stats
