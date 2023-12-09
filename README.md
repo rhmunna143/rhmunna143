@@ -1,6 +1,6 @@
 ![RH Munna GitHub Banner (1920 x 1080 px)](https://github.com/rhmunna143/rhmunna143/assets/66863042/1ee5b1f0-9364-4c5a-89cc-c927e7ddc80f)
 
-## 👋 Hi there I am RH Munna, Web Developer (MERN Stack), Competitive Programmer. Greetings! Welcome to my GitHub profile.
+## 👀 Current overview
 
 <!-- 🔭 I’m currently working on ...-->
 - 🌱 I’m currently learning TypeScript and Next.Js
@@ -9,6 +9,11 @@
 - 💬 Ask me about JavaScript, React.Js and C++
 - 📫 How to reach me: rhmunna19@gmail.com
 - ⚡ Fun fact: I'm a coffee aficionado and can make a mean latte art! ☕️✨
+
+
+## 💭 Find Me in Social Media
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white&link=[YOUR_LINK_HERE](https://www.linkedin.com/in/rhmunna143/))](https://www.linkedin.com/in/rhmunna143/) [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/Munna.rmu)](https://www.facebook.com/Munna.rmu) [![Twitter](https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/rhmunna143)](https://twitter.com/rhmunna143)
 
 ## 🙋‍♂️ About me
 
