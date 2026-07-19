@@ -87,6 +87,8 @@
 
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
 
+<br/>
+
 <!--- statistics --->
 
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
