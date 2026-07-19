@@ -15,6 +15,7 @@
 <br/>
 
 <!--- about --->
+
 - 👋 Hi, I'm **[@rhmunna143](https://github.com/rhmunna143)**
 - 🖥️ I'm currently working on **React.js, Next.js, TypeScript and Redux** for frontend development.
 - 🗄️ Using **Node.js, Express.js, MongoDB, PostgreSQL, MySQL, and Prisma** for the backend.
@@ -24,10 +25,11 @@
 - 📝 I regularly write articles on **[LinkedIn](https://linkedin.com/in/rhmunna143)**
 - 📫 Feel free to reach me out **[Email](mailto:rhmunna19@gmail.com)**
 - 📍 Based in **Kushtia, Bangladesh**
-  
+
 <br/>
 
 <!--- socials --->
+
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
 <div>
@@ -42,58 +44,67 @@
 <br/>
 
 <!--- technology --->
+
 ## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"><b> TECHNOLOGY STACK:</b>
 
 ### Languages:
+
 [![Languages](https://skillicons.dev/icons?i=html,css,js,ts,py)](https://github.com/rhmunna143)
 
 ### CSS Frameworks & Libraries:
+
 [![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://github.com/rhmunna143)
 
 ### JavaScript Frameworks & Libraries:
+
 [![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express)](https://github.com/rhmunna143)
 
 ### Database & ORM:
+
 [![Database & ORM](https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase,firebase)](https://github.com/rhmunna143)
 
 ### Deployment Platforms:
+
 [![Deployment Platforms](https://skillicons.dev/icons?i=vercel,netlify)](https://github.com/rhmunna143)
 
 ### Tools & Technologies:
+
 [![Tools & Technologies](https://skillicons.dev/icons?i=vscode,git,github,postman,docker,npm)](https://github.com/rhmunna143)
 
 <br/>
 
 <!--- dev card --->
+
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"><b> DEV CARD:</b>
 
 <a href="https://app.daily.dev/rhmunna143"><img src="https://api.daily.dev/devcards/5d4a9a43f24942f1b24a289d8aecfab2.png?r=rpv" width="400" alt="MD. RABBI HAQUE MUNNA's Dev Card"/></a>
 
 <br/>
 
+<!--- random quote --->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><b> RANDOM DEV QUOTE:</b>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
+
 <!--- statistics --->
+
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
+### Repository Stats & Streak:
+
+| <a><img align="center" src="https://streak-stats.demolab.com/?user=rhmunna143" /></a> |
+| ------------------------------------------------------------------------------------- |
+
 ### GitHub Contributions:
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rhmunna143/rhmunna143/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/rhmunna143/rhmunna143/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://github.com/rhmunna143/rhmunna143/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
-### GitHub Statistics:
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=rhmunna143&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhmunna143&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
-| ------------- | ------------- |
-
-### Repository Stats & Streak:
-| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=rhmunna143&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=rhmunna143" /></a> |
-| ------------- | ------------- |
-
 <br/>
-
-<!--- random quote --->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><b> RANDOM DEV QUOTE:</b>
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
 
 ---
 
