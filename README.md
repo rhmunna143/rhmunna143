@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="https://github.com/rhmunna143/rhmunna143/assets/66863042/1ee5b1f0-9364-4c5a-89cc-c927e7ddc80f" alt="RH Munna GitHub Banner">
+<img src="./banner/github_banner.jpg" alt="RH Munna GitHub Banner">
 
 <br/>
 
@@ -73,6 +73,13 @@
 
 <!--- statistics --->
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+
+### GitHub Contributions:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rhmunna143/rhmunna143/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rhmunna143/rhmunna143/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/rhmunna143/rhmunna143/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ### GitHub Statistics:
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=rhmunna143&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhmunna143&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
