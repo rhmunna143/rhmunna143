@@ -98,11 +98,8 @@
 ### LeetCode Stats:
 <a href="https://leetcode.com/u/rhmunna143" target="_blank"><img src="https://leetcard.jacoblin.cool/rhmunna143?theme=light&font=Montserrat&ext=heatmap" alt="LeetCode Stats" /></a>
 
-### HackerRank Badges:
-<a href="https://www.hackerrank.com/profile/rhmunna143" target="_blank"><img src="https://hackerrank-badges.vercel.app/api?username=rhmunna143" alt="HackerRank Badges" /></a>
-
 ### Codeforces Stats:
-<a href="https://codeforces.com/profile/rhmunna143" target="_blank"><img src="https://codeforces-stats-vlx.vercel.app/api/card?username=rhmunna143&theme=light" alt="Codeforces Stats" /></a>
+<a href="https://codeforces.com/profile/rhmunna143" target="_blank"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=rhmunna143&theme=light" alt="Codeforces Stats" /></a>
 
 <br/>
 
