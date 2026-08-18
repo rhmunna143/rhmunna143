@@ -81,6 +81,28 @@
 
 <br/>
 
+<!--- problem solving --->
+## <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="35"><b> PROBLEM SOLVING STATS:</b>
+
+### Competitive Programming Profiles:
+<div>
+  <p align="left">
+    <a href="https://leetcode.com/u/rhmunna143" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+    <a href="https://www.hackerrank.com/profile/rhmunna143" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+    <a href="https://codeforces.com/profile/rhmunna143" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+    <a href="https://www.codechef.com/users/rhmunna143" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+    <a href="https://lightoj.com/user/rhmunna143" target="_blank"><img src="https://img.shields.io/badge/LightOJ-2EC866?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTkgMjFjMCAxLjEuOSAyIDIgMmgyYzEuMSAwIDItLjkgMi0yaC00ek0xMiAyQzguMSAyIDUgNS4xIDUgOWMwIDIuNCAxLjIgNC41IDMgNS43VjE3YzAgLjYuNCAxIDEgMWg2Yy42IDAgMS0uNCAxLTF2LTIuM2MxLjgtMS4zIDMtMy40IDMtNS43IDAtMy45LTMuMS03LTctN3oiLz48L3N2Zz4=&logoColor=white" alt="LightOJ" /></a>
+  </p>
+</div>
+
+### LeetCode Stats:
+<a href="https://leetcode.com/u/rhmunna143"><img src="https://leetcard.jacoblin.cool/rhmunna143?theme=light&font=Montserrat&ext=heatmap" alt="LeetCode Stats" /></a>
+
+### Codeforces Stats:
+<a href="https://codeforces.com/profile/rhmunna143"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=rhmunna143&theme=light" alt="Codeforces Stats" /></a>
+
+<br/>
+
 <!--- random quote --->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><b> RANDOM DEV QUOTE:</b>
