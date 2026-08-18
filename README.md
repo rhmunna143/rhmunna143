@@ -16,14 +16,14 @@
 
 <!--- about --->
 
-- 👋 Hi, I'm **[@rhmunna143](https://github.com/rhmunna143)**
+- 👋 Hi, I'm <a href="https://github.com/rhmunna143" target="_blank"><b>@rhmunna143</b></a>
 - 🖥️ I'm currently working on **React.js, Next.js, TypeScript and Redux** for frontend development.
 - 🗄️ Using **Node.js, Express.js, MongoDB, PostgreSQL, MySQL, and Prisma** for the backend.
 - 🛠️ I'm currently learning **React Native, Docker, and AWS Lambda**.
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
-- 🌐 Explore My Portfolio **[rhmunna.pro.bd](https://rhmunna.pro.bd)** and My **[Resume](https://drive.google.com/uc?export=download&id=1bCU7rObc1szXnwOtohLSjSNDDRnjQ0Is)**
-- 📝 I regularly write articles on **[LinkedIn](https://linkedin.com/in/rhmunna143)**
-- 📫 Feel free to reach me out **[Email](mailto:rhmunna19@gmail.com)**
+- 🌐 Explore My Portfolio <a href="https://munna-dev.web.app" target="_blank"><b>munna-dev.web.app</b></a> and My <a href="https://drive.google.com/uc?export=download&id=1bCU7rObc1szXnwOtohLSjSNDDRnjQ0Is" target="_blank"><b>Resume</b></a>
+- 📝 I regularly write articles on <a href="https://linkedin.com/in/rhmunna143" target="_blank"><b>LinkedIn</b></a>
+- 📫 Feel free to reach me out <a href="mailto:rhmunna19@gmail.com" target="_blank"><b>Email</b></a>
 - 📍 Based in **Kushtia, Bangladesh**
 
 <br/>
@@ -49,27 +49,27 @@
 
 ### Languages:
 
-[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,py)](https://github.com/rhmunna143)
+<a href="https://github.com/rhmunna143" target="_blank"><img src="https://skillicons.dev/icons?i=html,css,js,ts,py" alt="Languages" /></a>
 
 ### CSS Frameworks & Libraries:
 
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://github.com/rhmunna143)
+<a href="https://github.com/rhmunna143" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind,bootstrap" alt="CSS Frameworks & Libraries" /></a>
 
 ### JavaScript Frameworks & Libraries:
 
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express)](https://github.com/rhmunna143)
+<a href="https://github.com/rhmunna143" target="_blank"><img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express" alt="JavaScript Frameworks & Libraries" /></a>
 
 ### Database & ORM:
 
-[![Database & ORM](https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase,firebase)](https://github.com/rhmunna143)
+<a href="https://github.com/rhmunna143" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase,firebase" alt="Database & ORM" /></a>
 
 ### Deployment Platforms:
 
-[![Deployment Platforms](https://skillicons.dev/icons?i=vercel,netlify)](https://github.com/rhmunna143)
+<a href="https://github.com/rhmunna143" target="_blank"><img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Deployment Platforms" /></a>
 
 ### Tools & Technologies:
 
-[![Tools & Technologies](https://skillicons.dev/icons?i=vscode,git,github,postman,docker,npm)](https://github.com/rhmunna143)
+<a href="https://github.com/rhmunna143" target="_blank"><img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker,npm" alt="Tools & Technologies" /></a>
 
 <br/>
 
@@ -77,7 +77,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"><b> DEV CARD:</b>
 
-<a href="https://app.daily.dev/rhmunna143"><img src="https://api.daily.dev/devcards/5d4a9a43f24942f1b24a289d8aecfab2.png?r=rpv" width="400" alt="MD. RABBI HAQUE MUNNA's Dev Card"/></a>
+<a href="https://app.daily.dev/rhmunna143" target="_blank"><img src="https://api.daily.dev/devcards/5d4a9a43f24942f1b24a289d8aecfab2.png?r=rpv" width="400" alt="MD. RABBI HAQUE MUNNA's Dev Card"/></a>
 
 <br/>
 
@@ -96,10 +96,13 @@
 </div>
 
 ### LeetCode Stats:
-<a href="https://leetcode.com/u/rhmunna143"><img src="https://leetcard.jacoblin.cool/rhmunna143?theme=light&font=Montserrat&ext=heatmap" alt="LeetCode Stats" /></a>
+<a href="https://leetcode.com/u/rhmunna143" target="_blank"><img src="https://leetcard.jacoblin.cool/rhmunna143?theme=light&font=Montserrat&ext=heatmap" alt="LeetCode Stats" /></a>
+
+### HackerRank Badges:
+<a href="https://www.hackerrank.com/profile/rhmunna143" target="_blank"><img src="https://hackerrank-badges.vercel.app/api?username=rhmunna143" alt="HackerRank Badges" /></a>
 
 ### Codeforces Stats:
-<a href="https://codeforces.com/profile/rhmunna143"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=rhmunna143&theme=light" alt="Codeforces Stats" /></a>
+<a href="https://codeforces.com/profile/rhmunna143" target="_blank"><img src="https://codeforces-stats-vlx.vercel.app/api/card?username=rhmunna143&theme=light" alt="Codeforces Stats" /></a>
 
 <br/>
 
