@@ -21,7 +21,7 @@
 - 🗄️ Using **Node.js, Express.js, MongoDB, PostgreSQL, MySQL, and Prisma** for the backend.
 - 🛠️ I'm currently learning **React Native, Docker, and AWS Lambda**.
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
-- 🌐 Explore My Portfolio <a href="https://munna-dev.web.app" target="_blank"><b>munna-dev.web.app</b></a> and My <a href="https://drive.google.com/uc?export=download&id=1bCU7rObc1szXnwOtohLSjSNDDRnjQ0Is" target="_blank"><b>Resume</b></a>
+- 🌐 Explore My Portfolio <a href="https://munna-dev.web.app" target="_blank"><b>munna-dev.web.app</b></a> and My <a href="https://drive.google.com/file/d/1aBWX6rvudCawfDe9ZK5tpECet5BjxzG7/view?usp=drive_link" target="_blank"><b>Resume</b></a>
 - 📝 I regularly write articles on <a href="https://linkedin.com/in/rhmunna143" target="_blank"><b>LinkedIn</b></a>
 - 📫 Feel free to reach me out <a href="mailto:rhmunna19@gmail.com" target="_blank"><b>Email</b></a>
 - 📍 Based in **Kushtia, Bangladesh**
