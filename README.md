@@ -8,7 +8,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm MD. Rabbi Haque Munna</h1></summary>
     <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=550&lines=Next.js+React+Developer;Passionate+Full+Stack+Web+Developer;JavaScript+%26+TypeScript+Enthusiast;MERN+Stack+Specialist;Open+Source+Contributor;AI-Driven+Software+Engineer;Full-stack+Engineer" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;JavaScript+%26+TypeScript+Enthusiast;MERN+Stack+Specialist;Open+Source+Contributor;Full-Stack+Software+Engineer" alt="Typing SVG" /></a>
   </ul>
 </div>
 
@@ -98,7 +98,10 @@
 ### LeetCode Stats:
 <a href="https://leetcode.com/u/rhmunna143" target="_blank"><img src="https://leetcard.jacoblin.cool/rhmunna143?theme=light&font=Montserrat&ext=heatmap" alt="LeetCode Stats" /></a>
 
-
+### Codeforces Stats:
+<a href="https://codeforces.com/profile/rhmunna143" target="_blank">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=rhmunna143&theme=dark" alt="Codeforces Stats" />
+</a>
 
 <br/>
 
